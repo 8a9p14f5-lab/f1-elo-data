@@ -16970,17 +16970,15 @@
           "qualifying_time": "1'16.225",
           "gap_to_pole_seconds": 0.35,
           "pct_off_pole": 100.461,
-          "qualifying_avg_speed": 203.272,
           "positions_gained": 2,
+          "laps_led": 0,
+          "teammate": "Sergio PEREZ",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 2,
           "fastest_lap_time": "1'18.999",
           "fastest_lap_gap": 1.225,
-          "fastest_lap_number": 52,
-          "fastest_lap_avg_speed": 196.134,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Sergio PEREZ",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 52
         },
         {
           "session_type": "race",
@@ -16999,17 +16997,15 @@
           "qualifying_time": "1'16.020",
           "gap_to_pole_seconds": 0.145,
           "pct_off_pole": 100.191,
-          "qualifying_avg_speed": 203.82,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Valtteri BOTTAS",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 4,
           "fastest_lap_time": "1'19.820",
           "fastest_lap_gap": 2.046,
-          "fastest_lap_number": 66,
-          "fastest_lap_avg_speed": 194.117,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Valtteri BOTTAS",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 66
         },
         {
           "session_type": "race",
@@ -17028,17 +17024,15 @@
           "qualifying_time": "1'16.342",
           "gap_to_pole_seconds": 0.467,
           "pct_off_pole": 100.615,
-          "qualifying_avg_speed": 202.96,
           "positions_gained": 1,
+          "laps_led": 0,
+          "teammate": "Max VERSTAPPEN",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 3,
           "fastest_lap_time": "1'19.468",
           "fastest_lap_gap": 1.694,
-          "fastest_lap_number": 49,
-          "fastest_lap_avg_speed": 194.977,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Max VERSTAPPEN",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 49
         },
         {
           "session_type": "race",
@@ -17057,17 +17051,15 @@
           "qualifying_time": "1'16.456",
           "gap_to_pole_seconds": 0.581,
           "pct_off_pole": 100.766,
-          "qualifying_avg_speed": 202.658,
           "positions_gained": 1,
+          "laps_led": 0,
+          "teammate": "Yuki TSUNODA",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 7,
           "fastest_lap_time": "1'20.510",
           "fastest_lap_gap": 2.736,
-          "fastest_lap_number": 66,
-          "fastest_lap_avg_speed": 192.453,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Yuki TSUNODA",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 66
         },
         {
           "session_type": "race",
@@ -17086,17 +17078,15 @@
           "qualifying_time": "1'16.837",
           "gap_to_pole_seconds": 0.962,
           "pct_off_pole": 101.268,
-          "qualifying_avg_speed": 201.653,
           "positions_gained": 3,
+          "laps_led": 0,
+          "teammate": "Carlos SAINZ",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 9,
           "fastest_lap_time": "1'20.665",
           "fastest_lap_gap": 2.891,
-          "fastest_lap_number": 63,
-          "fastest_lap_avg_speed": 192.083,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Carlos SAINZ",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 63
         },
         {
           "session_type": "race",
@@ -17115,17 +17105,15 @@
           "qualifying_time": "1'16.761",
           "gap_to_pole_seconds": 0.886,
           "pct_off_pole": 101.168,
-          "qualifying_avg_speed": 201.853,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Charles LECLERC",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 5,
           "fastest_lap_time": "1'20.081",
           "fastest_lap_gap": 2.307,
-          "fastest_lap_number": 63,
-          "fastest_lap_avg_speed": 193.484,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Charles LECLERC",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 63
         },
         {
           "session_type": "race",
@@ -17144,17 +17132,15 @@
           "qualifying_time": "1'17.746",
           "gap_to_pole_seconds": 1.871,
           "pct_off_pole": 102.466,
-          "qualifying_avg_speed": 199.295,
           "positions_gained": 4,
+          "laps_led": 0,
+          "teammate": "Lance STROLL",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 6,
           "fastest_lap_time": "1'20.460",
           "fastest_lap_gap": 2.686,
-          "fastest_lap_number": 70,
-          "fastest_lap_avg_speed": 192.573,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Lance STROLL",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 70
         },
         {
           "session_type": "race",
@@ -17173,17 +17159,15 @@
           "qualifying_time": "1'17.958",
           "gap_to_pole_seconds": 2.083,
           "pct_off_pole": 102.745,
-          "qualifying_avg_speed": 198.753,
           "positions_gained": 4,
+          "laps_led": 0,
+          "teammate": "Antonio GIOVINAZZI",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 11,
           "fastest_lap_time": "1'20.713",
           "fastest_lap_gap": 2.939,
-          "fastest_lap_number": 63,
-          "fastest_lap_avg_speed": 191.969,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Antonio GIOVINAZZI",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 63
         },
         {
           "session_type": "race",
@@ -17202,17 +17186,15 @@
           "qualifying_time": "1'18.452",
           "gap_to_pole_seconds": 2.577,
           "pct_off_pole": 103.396,
-          "qualifying_avg_speed": 197.502,
           "positions_gained": 7,
+          "laps_led": 0,
+          "teammate": "Esteban OCON",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 10,
           "fastest_lap_time": "1'20.711",
           "fastest_lap_gap": 2.937,
-          "fastest_lap_number": 54,
-          "fastest_lap_avg_speed": 191.974,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Esteban OCON",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 54
         },
         {
           "session_type": "race",
@@ -17231,17 +17213,15 @@
           "qualifying_time": "1'36.830",
           "gap_to_pole_seconds": 20.955,
           "pct_off_pole": 127.618,
-          "qualifying_avg_speed": 160.017,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Daniel RICCIARDO",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 8,
           "fastest_lap_time": "1'20.617",
           "fastest_lap_gap": 2.843,
-          "fastest_lap_number": 67,
-          "fastest_lap_avg_speed": 192.198,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Daniel RICCIARDO",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 67
         },
         {
           "session_type": "race",
@@ -17260,17 +17240,15 @@
           "qualifying_time": "1'18.290",
           "gap_to_pole_seconds": 2.415,
           "pct_off_pole": 103.183,
-          "qualifying_avg_speed": 197.91,
           "positions_gained": 3,
+          "laps_led": 0,
+          "teammate": "Kimi RAIKKONEN",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 16,
           "fastest_lap_time": "1'21.523",
           "fastest_lap_gap": 3.749,
-          "fastest_lap_number": 68,
-          "fastest_lap_avg_speed": 190.062,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Kimi RAIKKONEN",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 68
         },
         {
           "session_type": "race",
@@ -17289,17 +17267,15 @@
           "qualifying_time": "1'16.763",
           "gap_to_pole_seconds": 0.888,
           "pct_off_pole": 101.17,
-          "qualifying_avg_speed": 201.847,
           "positions_gained": -5,
+          "laps_led": 0,
+          "teammate": "Lando NORRIS",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 13,
           "fastest_lap_time": "1'21.069",
           "fastest_lap_gap": 3.295,
-          "fastest_lap_number": 40,
-          "fastest_lap_avg_speed": 191.126,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Lando NORRIS",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 40
         },
         {
           "session_type": "race",
@@ -17318,17 +17294,15 @@
           "qualifying_time": "1'18.405",
           "gap_to_pole_seconds": 2.53,
           "pct_off_pole": 103.334,
-          "qualifying_avg_speed": 197.62,
           "positions_gained": 2,
+          "laps_led": 0,
+          "teammate": "Fernando ALONSO",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 14,
           "fastest_lap_time": "1'21.348",
           "fastest_lap_gap": 3.574,
-          "fastest_lap_number": 67,
-          "fastest_lap_avg_speed": 190.471,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Fernando ALONSO",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 67
         },
         {
           "session_type": "race",
@@ -17347,17 +17321,15 @@
           "qualifying_time": "1'20.873",
           "gap_to_pole_seconds": 4.998,
           "pct_off_pole": 106.587,
-          "qualifying_avg_speed": 191.589,
           "positions_gained": 6,
+          "laps_led": 0,
+          "teammate": "Sebastian VETTEL",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 12,
           "fastest_lap_time": "1'20.930",
           "fastest_lap_gap": 3.156,
-          "fastest_lap_number": 61,
-          "fastest_lap_avg_speed": 191.454,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Sebastian VETTEL",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 61
         },
         {
           "session_type": "race",
@@ -17376,17 +17348,15 @@
           "qualifying_time": "1'15.875",
           "gap_to_pole_seconds": null,
           "pct_off_pole": null,
-          "qualifying_avg_speed": 204.21,
           "positions_gained": -14,
+          "laps_led": 0,
+          "teammate": "Lewis HAMILTON",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": true,
           "fastest_lap_rank": 1,
           "fastest_lap_time": "1'17.774",
           "fastest_lap_gap": null,
-          "fastest_lap_number": 69,
-          "fastest_lap_avg_speed": 199.223,
-          "had_fastest_lap": true,
-          "laps_led": 0,
-          "teammate": "Lewis HAMILTON",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 69
         },
         {
           "session_type": "race",
@@ -17405,17 +17375,15 @@
           "qualifying_time": "1'18.172",
           "gap_to_pole_seconds": 2.297,
           "pct_off_pole": 103.027,
-          "qualifying_avg_speed": 198.209,
           "positions_gained": -3,
+          "laps_led": 0,
+          "teammate": "Nicholas LATIFI",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 18,
           "fastest_lap_time": "1'22.016",
           "fastest_lap_gap": 4.242,
-          "fastest_lap_number": 61,
-          "fastest_lap_avg_speed": 188.919,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Nicholas LATIFI",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 61
         },
         {
           "session_type": "race",
@@ -17434,17 +17402,15 @@
           "qualifying_time": "1'18.756",
           "gap_to_pole_seconds": 2.881,
           "pct_off_pole": 103.797,
-          "qualifying_avg_speed": 196.739,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "George RUSSELL",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 17,
           "fastest_lap_time": "1'21.546",
           "fastest_lap_gap": 3.772,
-          "fastest_lap_number": 66,
-          "fastest_lap_avg_speed": 190.008,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "George RUSSELL",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 66
         },
         {
           "session_type": "race",
@@ -17463,17 +17429,15 @@
           "qualifying_time": "1'19.303",
           "gap_to_pole_seconds": 3.428,
           "pct_off_pole": 104.518,
-          "qualifying_avg_speed": 195.382,
           "positions_gained": 1,
+          "laps_led": 0,
+          "teammate": "Mick SCHUMACHER",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 15,
           "fastest_lap_time": "1'21.402",
           "fastest_lap_gap": 3.628,
-          "fastest_lap_number": 61,
-          "fastest_lap_avg_speed": 190.344,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Mick SCHUMACHER",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 61
         },
         {
           "session_type": "race",
@@ -17492,12 +17456,11 @@
           "qualifying_time": "1'18.858",
           "gap_to_pole_seconds": 2.983,
           "pct_off_pole": 103.931,
-          "qualifying_avg_speed": 196.485,
           "positions_gained": null,
-          "had_fastest_lap": false,
           "laps_led": 0,
           "teammate": "Nikita MAZEPIN",
-          "total_classified_finishers": 18
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false
         },
         {
           "session_type": "race",
@@ -17516,12 +17479,11 @@
           "qualifying_time": "1'17.158",
           "gap_to_pole_seconds": 1.283,
           "pct_off_pole": 101.691,
-          "qualifying_avg_speed": 200.814,
           "positions_gained": null,
-          "had_fastest_lap": false,
           "laps_led": 0,
           "teammate": "Pierre GASLY",
-          "total_classified_finishers": 18
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false
         }
       ],
       "race_penalties": []
@@ -17531,144 +17493,123 @@
         "number": 3,
         "driver": "Daniel RICCIARDO",
         "chassis": "McLaren F1 Team",
-        "engine": "McLaren",
-        "nationality": "MCL35M"
+        "engine": "McLaren"
       },
       {
         "number": 4,
         "driver": "Lando NORRIS",
         "chassis": "McLaren F1 Team",
-        "engine": "McLaren",
-        "nationality": "MCL35M"
+        "engine": "McLaren"
       },
       {
         "number": 5,
         "driver": "Sebastian VETTEL",
         "chassis": "Aston Martin Cognizant F1 Team",
-        "engine": "Aston Martin",
-        "nationality": "AMR21"
+        "engine": "Aston Martin"
       },
       {
         "number": 6,
         "driver": "Nicholas LATIFI",
         "chassis": "Williams Racing",
-        "engine": "Williams",
-        "nationality": "FW43B"
+        "engine": "Williams"
       },
       {
         "number": 7,
         "driver": "Kimi RAIKKONEN",
         "chassis": "Alfa Romeo Racing ORLEN",
-        "engine": "Alfa Romeo",
-        "nationality": "C41"
+        "engine": "Alfa Romeo"
       },
       {
         "number": 9,
         "driver": "Nikita MAZEPIN",
         "chassis": "Uralkali Haas F1 Team",
-        "engine": "Haas",
-        "nationality": "VF-21"
+        "engine": "Haas"
       },
       {
         "number": 10,
         "driver": "Pierre GASLY",
         "chassis": "Scuderia AlphaTauri Honda",
-        "engine": "AlphaTauri",
-        "nationality": "AT02"
+        "engine": "AlphaTauri"
       },
       {
         "number": 11,
         "driver": "Sergio PEREZ",
         "chassis": "Red Bull Racing Honda",
-        "engine": "Red Bull",
-        "nationality": "RB16B"
+        "engine": "Red Bull"
       },
       {
         "number": 14,
         "driver": "Fernando ALONSO",
         "chassis": "Alpine F1 Team",
-        "engine": "Alpine",
-        "nationality": "A521"
+        "engine": "Alpine"
       },
       {
         "number": 16,
         "driver": "Charles LECLERC",
         "chassis": "Scuderia Ferrari Mission Winnow",
-        "engine": "Ferrari",
-        "nationality": "SF21"
+        "engine": "Ferrari"
       },
       {
         "number": 18,
         "driver": "Lance STROLL",
         "chassis": "Aston Martin Cognizant F1 Team",
-        "engine": "Aston Martin",
-        "nationality": "AMR21"
+        "engine": "Aston Martin"
       },
       {
         "number": 22,
         "driver": "Yuki TSUNODA",
         "chassis": "Scuderia AlphaTauri Honda",
-        "engine": "AlphaTauri",
-        "nationality": "AT02"
+        "engine": "AlphaTauri"
       },
       {
         "number": 31,
         "driver": "Esteban OCON",
         "chassis": "Alpine F1 Team",
-        "engine": "Alpine",
-        "nationality": "A521"
+        "engine": "Alpine"
       },
       {
         "number": 33,
         "driver": "Max VERSTAPPEN",
         "chassis": "Red Bull Racing Honda",
-        "engine": "Red Bull",
-        "nationality": "RB16B"
+        "engine": "Red Bull"
       },
       {
         "number": 44,
         "driver": "Lewis HAMILTON",
         "chassis": "Mercedes AMG Petronas F1 Team",
-        "engine": "Mercedes",
-        "nationality": "F1 W12"
+        "engine": "Mercedes"
       },
       {
         "number": 47,
         "driver": "Mick SCHUMACHER",
         "chassis": "Uralkali Haas F1 Team",
-        "engine": "Haas",
-        "nationality": "VF-21"
+        "engine": "Haas"
       },
       {
         "number": 55,
         "driver": "Carlos SAINZ",
         "chassis": "Scuderia Ferrari Mission Winnow",
-        "engine": "Ferrari",
-        "nationality": "SF21"
+        "engine": "Ferrari"
       },
       {
         "number": 63,
         "driver": "George RUSSELL",
         "chassis": "Williams Racing",
-        "engine": "Williams",
-        "nationality": "FW43B"
+        "engine": "Williams"
       },
       {
         "number": 77,
         "driver": "Valtteri BOTTAS",
         "chassis": "Mercedes AMG Petronas F1 Team",
-        "engine": "Mercedes",
-        "nationality": "F1 W12"
+        "engine": "Mercedes"
       },
       {
         "number": 99,
         "driver": "Antonio GIOVINAZZI",
         "chassis": "Alfa Romeo Racing ORLEN",
-        "engine": "Alfa Romeo",
-        "nationality": "C41"
+        "engine": "Alfa Romeo"
       }
-    ],
-    "total_entrants": 20
+    ]
   },
   {
     "race_name": "São Paulo",
@@ -17918,17 +17859,15 @@
           "qualifying_time": null,
           "gap_to_pole_seconds": null,
           "pct_off_pole": null,
-          "qualifying_avg_speed": null,
           "positions_gained": 19,
+          "laps_led": 0,
+          "teammate": "Valtteri BOTTAS",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 2,
           "fastest_lap_time": "1'11.982",
           "fastest_lap_gap": 0.972,
-          "fastest_lap_number": 46,
-          "fastest_lap_avg_speed": 215.504,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Valtteri BOTTAS",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 46
         },
         {
           "session_type": "race",
@@ -17947,17 +17886,15 @@
           "qualifying_time": "1'08.372",
           "gap_to_pole_seconds": null,
           "pct_off_pole": null,
-          "qualifying_avg_speed": 226.882,
           "positions_gained": -1,
+          "laps_led": 0,
+          "teammate": "Sergio PEREZ",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 3,
           "fastest_lap_time": "1'12.486",
           "fastest_lap_gap": 1.476,
-          "fastest_lap_number": 47,
-          "fastest_lap_avg_speed": 214.005,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Sergio PEREZ",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 47
         },
         {
           "session_type": "race",
@@ -17976,17 +17913,15 @@
           "qualifying_time": "1'08.469",
           "gap_to_pole_seconds": 0.097,
           "pct_off_pole": 100.142,
-          "qualifying_avg_speed": 226.561,
           "positions_gained": -1,
+          "laps_led": 0,
+          "teammate": "Lewis HAMILTON",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 4,
           "fastest_lap_time": "1'12.526",
           "fastest_lap_gap": 1.516,
-          "fastest_lap_number": 49,
-          "fastest_lap_avg_speed": 213.887,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Lewis HAMILTON",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 49
         },
         {
           "session_type": "race",
@@ -18005,17 +17940,15 @@
           "qualifying_time": "1'08.483",
           "gap_to_pole_seconds": 0.111,
           "pct_off_pole": 100.162,
-          "qualifying_avg_speed": 226.515,
           "positions_gained": -1,
+          "laps_led": 0,
+          "teammate": "Max VERSTAPPEN",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": true,
           "fastest_lap_rank": 1,
           "fastest_lap_time": "1'11.010",
           "fastest_lap_gap": null,
-          "fastest_lap_number": 71,
-          "fastest_lap_avg_speed": 218.454,
-          "had_fastest_lap": true,
-          "laps_led": 0,
-          "teammate": "Max VERSTAPPEN",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 71
         },
         {
           "session_type": "race",
@@ -18034,17 +17967,15 @@
           "qualifying_time": "1'08.960",
           "gap_to_pole_seconds": 0.588,
           "pct_off_pole": 100.86,
-          "qualifying_avg_speed": 224.948,
           "positions_gained": 1,
+          "laps_led": 0,
+          "teammate": "Carlos SAINZ",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 7,
           "fastest_lap_time": "1'12.822",
           "fastest_lap_gap": 1.812,
-          "fastest_lap_number": 61,
-          "fastest_lap_avg_speed": 213.018,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Carlos SAINZ",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 61
         },
         {
           "session_type": "race",
@@ -18063,17 +17994,15 @@
           "qualifying_time": "1'08.826",
           "gap_to_pole_seconds": 0.454,
           "pct_off_pole": 100.664,
-          "qualifying_avg_speed": 225.386,
           "positions_gained": -1,
+          "laps_led": 0,
+          "teammate": "Charles LECLERC",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 6,
           "fastest_lap_time": "1'12.710",
           "fastest_lap_gap": 1.7,
-          "fastest_lap_number": 63,
-          "fastest_lap_avg_speed": 213.346,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Charles LECLERC",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 63
         },
         {
           "session_type": "race",
@@ -18092,17 +18021,15 @@
           "qualifying_time": "1'08.777",
           "gap_to_pole_seconds": 0.405,
           "pct_off_pole": 100.592,
-          "qualifying_avg_speed": 225.546,
           "positions_gained": -3,
+          "laps_led": 0,
+          "teammate": "Yuki TSUNODA",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 8,
           "fastest_lap_time": "1'13.227",
           "fastest_lap_gap": 2.217,
-          "fastest_lap_number": 53,
-          "fastest_lap_avg_speed": 211.84,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Yuki TSUNODA",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 53
         },
         {
           "session_type": "race",
@@ -18121,17 +18048,15 @@
           "qualifying_time": "1'09.189",
           "gap_to_pole_seconds": 0.817,
           "pct_off_pole": 101.195,
-          "qualifying_avg_speed": 224.203,
           "positions_gained": 2,
+          "laps_led": 0,
+          "teammate": "Fernando ALONSO",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 16,
           "fastest_lap_time": "1'14.430",
           "fastest_lap_gap": 3.42,
-          "fastest_lap_number": 48,
-          "fastest_lap_avg_speed": 208.416,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Fernando ALONSO",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 48
         },
         {
           "session_type": "race",
@@ -18150,17 +18075,15 @@
           "qualifying_time": "1'09.113",
           "gap_to_pole_seconds": 0.741,
           "pct_off_pole": 101.084,
-          "qualifying_avg_speed": 224.45,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Esteban OCON",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 12,
           "fastest_lap_time": "1'13.922",
           "fastest_lap_gap": 2.912,
-          "fastest_lap_number": 37,
-          "fastest_lap_avg_speed": 209.848,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Esteban OCON",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 37
         },
         {
           "session_type": "race",
@@ -18179,17 +18102,15 @@
           "qualifying_time": "1'08.980",
           "gap_to_pole_seconds": 0.608,
           "pct_off_pole": 100.889,
-          "qualifying_avg_speed": 224.883,
           "positions_gained": -3,
+          "laps_led": 0,
+          "teammate": "Daniel RICCIARDO",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 10,
           "fastest_lap_time": "1'13.761",
           "fastest_lap_gap": 2.751,
-          "fastest_lap_number": 53,
-          "fastest_lap_avg_speed": 210.306,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Daniel RICCIARDO",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 53
         },
         {
           "session_type": "race",
@@ -18208,17 +18129,15 @@
           "qualifying_time": "1'09.399",
           "gap_to_pole_seconds": 1.027,
           "pct_off_pole": 101.502,
-          "qualifying_avg_speed": 223.525,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Lance STROLL",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 9,
           "fastest_lap_time": "1'13.634",
           "fastest_lap_gap": 2.624,
-          "fastest_lap_number": 69,
-          "fastest_lap_avg_speed": 210.669,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Lance STROLL",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 69
         },
         {
           "session_type": "race",
@@ -18237,17 +18156,15 @@
           "qualifying_time": "1'09.503",
           "gap_to_pole_seconds": 1.131,
           "pct_off_pole": 101.654,
-          "qualifying_avg_speed": 223.19,
           "positions_gained": 1,
+          "laps_led": 0,
+          "teammate": "Antonio GIOVINAZZI",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 5,
           "fastest_lap_time": "1'12.621",
           "fastest_lap_gap": 1.611,
-          "fastest_lap_number": 54,
-          "fastest_lap_avg_speed": 213.608,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Antonio GIOVINAZZI",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 54
         },
         {
           "session_type": "race",
@@ -18266,17 +18183,15 @@
           "qualifying_time": "1'09.953",
           "gap_to_pole_seconds": 1.581,
           "pct_off_pole": 102.312,
-          "qualifying_avg_speed": 221.755,
           "positions_gained": 4,
+          "laps_led": 0,
+          "teammate": "Nicholas LATIFI",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 15,
           "fastest_lap_time": "1'14.355",
           "fastest_lap_gap": 3.345,
-          "fastest_lap_number": 45,
-          "fastest_lap_avg_speed": 208.626,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Nicholas LATIFI",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 45
         },
         {
           "session_type": "race",
@@ -18295,17 +18210,15 @@
           "qualifying_time": "1'10.227",
           "gap_to_pole_seconds": 1.855,
           "pct_off_pole": 102.713,
-          "qualifying_avg_speed": 220.889,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Kimi RAIKKONEN",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 14,
           "fastest_lap_time": "1'14.227",
           "fastest_lap_gap": 3.217,
-          "fastest_lap_number": 44,
-          "fastest_lap_avg_speed": 208.986,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Kimi RAIKKONEN",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 44
         },
         {
           "session_type": "race",
@@ -18324,17 +18237,15 @@
           "qualifying_time": "1'09.483",
           "gap_to_pole_seconds": 1.111,
           "pct_off_pole": 101.625,
-          "qualifying_avg_speed": 223.255,
           "positions_gained": -3,
+          "laps_led": 0,
+          "teammate": "Pierre GASLY",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 13,
           "fastest_lap_time": "1'14.204",
           "fastest_lap_gap": 3.194,
-          "fastest_lap_number": 62,
-          "fastest_lap_avg_speed": 209.051,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Pierre GASLY",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 62
         },
         {
           "session_type": "race",
@@ -18353,17 +18264,15 @@
           "qualifying_time": "1'09.897",
           "gap_to_pole_seconds": 1.525,
           "pct_off_pole": 102.23,
-          "qualifying_avg_speed": 221.932,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "George RUSSELL",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 18,
           "fastest_lap_time": "1'14.616",
           "fastest_lap_gap": 3.606,
-          "fastest_lap_number": 57,
-          "fastest_lap_avg_speed": 207.896,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "George RUSSELL",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 57
         },
         {
           "session_type": "race",
@@ -18382,17 +18291,15 @@
           "qualifying_time": "1'10.589",
           "gap_to_pole_seconds": 2.217,
           "pct_off_pole": 103.243,
-          "qualifying_avg_speed": 219.757,
           "positions_gained": 2,
+          "laps_led": 0,
+          "teammate": "Mick SCHUMACHER",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 19,
           "fastest_lap_time": "1'14.954",
           "fastest_lap_gap": 3.944,
-          "fastest_lap_number": 36,
-          "fastest_lap_avg_speed": 206.959,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Mick SCHUMACHER",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 36
         },
         {
           "session_type": "race",
@@ -18411,17 +18318,15 @@
           "qualifying_time": "1'10.329",
           "gap_to_pole_seconds": 1.957,
           "pct_off_pole": 102.862,
-          "qualifying_avg_speed": 220.569,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Nikita MAZEPIN",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 11,
           "fastest_lap_time": "1'13.793",
           "fastest_lap_gap": 2.783,
-          "fastest_lap_number": 66,
-          "fastest_lap_avg_speed": 210.215,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Nikita MAZEPIN",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 66
         },
         {
           "session_type": "race",
@@ -18440,17 +18345,15 @@
           "qualifying_time": "1'09.039",
           "gap_to_pole_seconds": 0.667,
           "pct_off_pole": 100.976,
-          "qualifying_avg_speed": 224.69,
           "positions_gained": null,
+          "laps_led": 0,
+          "teammate": "Lando NORRIS",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 17,
           "fastest_lap_time": "1'14.443",
           "fastest_lap_gap": 3.433,
-          "fastest_lap_number": 40,
-          "fastest_lap_avg_speed": 208.38,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Lando NORRIS",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 40
         },
         {
           "session_type": "race",
@@ -18469,17 +18372,15 @@
           "qualifying_time": "1'09.663",
           "gap_to_pole_seconds": 1.291,
           "pct_off_pole": 101.888,
-          "qualifying_avg_speed": 222.678,
           "positions_gained": null,
+          "laps_led": 0,
+          "teammate": "Sebastian VETTEL",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 20,
           "fastest_lap_time": "1'15.344",
           "fastest_lap_gap": 4.334,
-          "fastest_lap_number": 25,
-          "fastest_lap_avg_speed": 205.888,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Sebastian VETTEL",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 25
         }
       ],
       "race_penalties": [
@@ -18793,152 +18694,130 @@
           "points_scored": 0.0,
           "teammate": null
         }
-      ],
-      "sprint_race_penalties": []
+      ]
     },
     "entrants": [
       {
         "number": 3,
         "driver": "Daniel RICCIARDO",
         "chassis": "McLaren F1 Team",
-        "engine": "McLaren",
-        "nationality": "MCL35M"
+        "engine": "McLaren"
       },
       {
         "number": 4,
         "driver": "Lando NORRIS",
         "chassis": "McLaren F1 Team",
-        "engine": "McLaren",
-        "nationality": "MCL35M"
+        "engine": "McLaren"
       },
       {
         "number": 5,
         "driver": "Sebastian VETTEL",
         "chassis": "Aston Martin Cognizant F1 Team",
-        "engine": "Aston Martin",
-        "nationality": "AMR21"
+        "engine": "Aston Martin"
       },
       {
         "number": 6,
         "driver": "Nicholas LATIFI",
         "chassis": "Williams Racing",
-        "engine": "Williams",
-        "nationality": "FW43B"
+        "engine": "Williams"
       },
       {
         "number": 7,
         "driver": "Kimi RAIKKONEN",
         "chassis": "Alfa Romeo Racing ORLEN",
-        "engine": "Alfa Romeo",
-        "nationality": "C41"
+        "engine": "Alfa Romeo"
       },
       {
         "number": 9,
         "driver": "Nikita MAZEPIN",
         "chassis": "Uralkali Haas F1 Team",
-        "engine": "Haas",
-        "nationality": "VF-21"
+        "engine": "Haas"
       },
       {
         "number": 10,
         "driver": "Pierre GASLY",
         "chassis": "Scuderia AlphaTauri Honda",
-        "engine": "AlphaTauri",
-        "nationality": "AT02"
+        "engine": "AlphaTauri"
       },
       {
         "number": 11,
         "driver": "Sergio PEREZ",
         "chassis": "Red Bull Racing Honda",
-        "engine": "Red Bull",
-        "nationality": "RB16B"
+        "engine": "Red Bull"
       },
       {
         "number": 14,
         "driver": "Fernando ALONSO",
         "chassis": "Alpine F1 Team",
-        "engine": "Alpine",
-        "nationality": "A521"
+        "engine": "Alpine"
       },
       {
         "number": 16,
         "driver": "Charles LECLERC",
         "chassis": "Scuderia Ferrari Mission Winnow",
-        "engine": "Ferrari",
-        "nationality": "SF21"
+        "engine": "Ferrari"
       },
       {
         "number": 18,
         "driver": "Lance STROLL",
         "chassis": "Aston Martin Cognizant F1 Team",
-        "engine": "Aston Martin",
-        "nationality": "AMR21"
+        "engine": "Aston Martin"
       },
       {
         "number": 22,
         "driver": "Yuki TSUNODA",
         "chassis": "Scuderia AlphaTauri Honda",
-        "engine": "AlphaTauri",
-        "nationality": "AT02"
+        "engine": "AlphaTauri"
       },
       {
         "number": 31,
         "driver": "Esteban OCON",
         "chassis": "Alpine F1 Team",
-        "engine": "Alpine",
-        "nationality": "A521"
+        "engine": "Alpine"
       },
       {
         "number": 33,
         "driver": "Max VERSTAPPEN",
         "chassis": "Red Bull Racing Honda",
-        "engine": "Red Bull",
-        "nationality": "RB16B"
+        "engine": "Red Bull"
       },
       {
         "number": 44,
         "driver": "Lewis HAMILTON",
         "chassis": "Mercedes AMG Petronas F1 Team",
-        "engine": "Mercedes",
-        "nationality": "F1 W12"
+        "engine": "Mercedes"
       },
       {
         "number": 47,
         "driver": "Mick SCHUMACHER",
         "chassis": "Uralkali Haas F1 Team",
-        "engine": "Haas",
-        "nationality": "VF-21"
+        "engine": "Haas"
       },
       {
         "number": 55,
         "driver": "Carlos SAINZ",
         "chassis": "Scuderia Ferrari Mission Winnow",
-        "engine": "Ferrari",
-        "nationality": "SF21"
+        "engine": "Ferrari"
       },
       {
         "number": 63,
         "driver": "George RUSSELL",
         "chassis": "Williams Racing",
-        "engine": "Williams",
-        "nationality": "FW43B"
+        "engine": "Williams"
       },
       {
         "number": 77,
         "driver": "Valtteri BOTTAS",
         "chassis": "Mercedes AMG Petronas F1 Team",
-        "engine": "Mercedes",
-        "nationality": "F1 W12"
+        "engine": "Mercedes"
       },
       {
         "number": 99,
         "driver": "Antonio GIOVINAZZI",
         "chassis": "Alfa Romeo Racing ORLEN",
-        "engine": "Alfa Romeo",
-        "nationality": "C41"
+        "engine": "Alfa Romeo"
       }
-    ],
-    "total_entrants": 20
+    ]
   },
   {
     "race_name": "Qatar",
@@ -18946,7 +18825,6 @@
     "year": 2021,
     "date": "2021-11-21",
     "is_sprint_weekend": false,
-    "race_number": 20,
     "sessions": {
       "qualifying": [
         {
@@ -19188,17 +19066,15 @@
           "qualifying_time": "1'20.827",
           "gap_to_pole_seconds": null,
           "pct_off_pole": null,
-          "qualifying_avg_speed": 239.623,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Valtteri BOTTAS",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 2,
           "fastest_lap_time": "1'25.084",
           "fastest_lap_gap": 1.888,
-          "fastest_lap_number": 50,
-          "fastest_lap_avg_speed": 227.634,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Valtteri BOTTAS",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 50
         },
         {
           "session_type": "race",
@@ -19217,17 +19093,15 @@
           "qualifying_time": "1'21.424",
           "gap_to_pole_seconds": 0.597,
           "pct_off_pole": 100.739,
-          "qualifying_avg_speed": 237.866,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Sergio PEREZ",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": true,
           "fastest_lap_rank": 1,
           "fastest_lap_time": "1'23.196",
           "fastest_lap_gap": null,
-          "fastest_lap_number": 57,
-          "fastest_lap_avg_speed": 232.8,
-          "had_fastest_lap": true,
-          "laps_led": 0,
-          "teammate": "Sergio PEREZ",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 57
         },
         {
           "session_type": "race",
@@ -19246,17 +19120,15 @@
           "qualifying_time": "1'21.670",
           "gap_to_pole_seconds": 0.843,
           "pct_off_pole": 101.043,
-          "qualifying_avg_speed": 237.15,
           "positions_gained": 2,
+          "laps_led": 0,
+          "teammate": "Esteban OCON",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 10,
           "fastest_lap_time": "1'26.682",
           "fastest_lap_gap": 3.486,
-          "fastest_lap_number": 48,
-          "fastest_lap_avg_speed": 223.437,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Esteban OCON",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 48
         },
         {
           "session_type": "race",
@@ -19275,17 +19147,15 @@
           "qualifying_time": "1'22.346",
           "gap_to_pole_seconds": 1.519,
           "pct_off_pole": 101.879,
-          "qualifying_avg_speed": 235.203,
           "positions_gained": 7,
+          "laps_led": 0,
+          "teammate": "Max VERSTAPPEN",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 3,
           "fastest_lap_time": "1'25.613",
           "fastest_lap_gap": 2.417,
-          "fastest_lap_number": 49,
-          "fastest_lap_avg_speed": 226.227,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Max VERSTAPPEN",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 49
         },
         {
           "session_type": "race",
@@ -19304,17 +19174,15 @@
           "qualifying_time": "1'22.028",
           "gap_to_pole_seconds": 1.201,
           "pct_off_pole": 101.486,
-          "qualifying_avg_speed": 236.114,
           "positions_gained": 4,
+          "laps_led": 0,
+          "teammate": "Fernando ALONSO",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 13,
           "fastest_lap_time": "1'27.061",
           "fastest_lap_gap": 3.865,
-          "fastest_lap_number": 46,
-          "fastest_lap_avg_speed": 222.465,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Fernando ALONSO",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 46
         },
         {
           "session_type": "race",
@@ -19333,17 +19201,15 @@
           "qualifying_time": "1'22.460",
           "gap_to_pole_seconds": 1.633,
           "pct_off_pole": 102.02,
-          "qualifying_avg_speed": 234.878,
           "positions_gained": 6,
+          "laps_led": 0,
+          "teammate": "Sebastian VETTEL",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 17,
           "fastest_lap_time": "1'27.356",
           "fastest_lap_gap": 4.16,
-          "fastest_lap_number": 44,
-          "fastest_lap_avg_speed": 221.713,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Sebastian VETTEL",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 44
         },
         {
           "session_type": "race",
@@ -19362,17 +19228,15 @@
           "qualifying_time": "1'21.840",
           "gap_to_pole_seconds": 1.013,
           "pct_off_pole": 101.253,
-          "qualifying_avg_speed": 236.657,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Charles LECLERC",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 9,
           "fastest_lap_time": "1'26.570",
           "fastest_lap_gap": 3.374,
-          "fastest_lap_number": 46,
-          "fastest_lap_avg_speed": 223.726,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Charles LECLERC",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 46
         },
         {
           "session_type": "race",
@@ -19391,17 +19255,15 @@
           "qualifying_time": "1'22.463",
           "gap_to_pole_seconds": 1.636,
           "pct_off_pole": 102.024,
-          "qualifying_avg_speed": 234.869,
           "positions_gained": 5,
+          "laps_led": 0,
+          "teammate": "Carlos SAINZ",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 8,
           "fastest_lap_time": "1'26.555",
           "fastest_lap_gap": 3.359,
-          "fastest_lap_number": 46,
-          "fastest_lap_avg_speed": 223.765,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Carlos SAINZ",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 46
         },
         {
           "session_type": "race",
@@ -19420,17 +19282,15 @@
           "qualifying_time": "1'21.731",
           "gap_to_pole_seconds": 0.904,
           "pct_off_pole": 101.118,
-          "qualifying_avg_speed": 236.973,
           "positions_gained": -3,
+          "laps_led": 0,
+          "teammate": "Daniel RICCIARDO",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 4,
           "fastest_lap_time": "1'25.746",
           "fastest_lap_gap": 2.55,
-          "fastest_lap_number": 51,
-          "fastest_lap_avg_speed": 225.876,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Daniel RICCIARDO",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 51
         },
         {
           "session_type": "race",
@@ -19449,17 +19309,15 @@
           "qualifying_time": "1'22.785",
           "gap_to_pole_seconds": 1.958,
           "pct_off_pole": 102.422,
-          "qualifying_avg_speed": 233.955,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Lance STROLL",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 7,
           "fastest_lap_time": "1'26.434",
           "fastest_lap_gap": 3.238,
-          "fastest_lap_number": 53,
-          "fastest_lap_avg_speed": 224.078,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Lance STROLL",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 53
         },
         {
           "session_type": "race",
@@ -19478,17 +19336,15 @@
           "qualifying_time": "1'21.640",
           "gap_to_pole_seconds": 0.813,
           "pct_off_pole": 101.006,
-          "qualifying_avg_speed": 237.237,
           "positions_gained": -7,
+          "laps_led": 0,
+          "teammate": "Yuki TSUNODA",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 11,
           "fastest_lap_time": "1'27.019",
           "fastest_lap_gap": 3.823,
-          "fastest_lap_number": 46,
-          "fastest_lap_avg_speed": 222.572,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Yuki TSUNODA",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 46
         },
         {
           "session_type": "race",
@@ -19507,17 +19363,15 @@
           "qualifying_time": "1'22.597",
           "gap_to_pole_seconds": 1.77,
           "pct_off_pole": 102.19,
-          "qualifying_avg_speed": 234.488,
           "positions_gained": 2,
+          "laps_led": 0,
+          "teammate": "Lando NORRIS",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 14,
           "fastest_lap_time": "1'27.198",
           "fastest_lap_gap": 4.002,
-          "fastest_lap_number": 50,
-          "fastest_lap_avg_speed": 222.115,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Lando NORRIS",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 50
         },
         {
           "session_type": "race",
@@ -19536,17 +19390,15 @@
           "qualifying_time": "1'21.881",
           "gap_to_pole_seconds": 1.054,
           "pct_off_pole": 101.304,
-          "qualifying_avg_speed": 236.538,
           "positions_gained": -5,
+          "laps_led": 0,
+          "teammate": "Pierre GASLY",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 12,
           "fastest_lap_time": "1'27.043",
           "fastest_lap_gap": 3.847,
-          "fastest_lap_number": 50,
-          "fastest_lap_avg_speed": 222.511,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Pierre GASLY",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 50
         },
         {
           "session_type": "race",
@@ -19565,17 +19417,15 @@
           "qualifying_time": "1'23.156",
           "gap_to_pole_seconds": 2.329,
           "pct_off_pole": 102.881,
-          "qualifying_avg_speed": 232.912,
           "positions_gained": 2,
+          "laps_led": 0,
+          "teammate": "Antonio GIOVINAZZI",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 6,
           "fastest_lap_time": "1'26.358",
           "fastest_lap_gap": 3.162,
-          "fastest_lap_number": 53,
-          "fastest_lap_avg_speed": 224.276,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Antonio GIOVINAZZI",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 53
         },
         {
           "session_type": "race",
@@ -19594,17 +19444,15 @@
           "qualifying_time": "1'23.262",
           "gap_to_pole_seconds": 2.435,
           "pct_off_pole": 103.013,
-          "qualifying_avg_speed": 232.615,
           "positions_gained": 3,
+          "laps_led": 0,
+          "teammate": "Kimi RAIKKONEN",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 18,
           "fastest_lap_time": "1'27.823",
           "fastest_lap_gap": 4.627,
-          "fastest_lap_number": 40,
-          "fastest_lap_avg_speed": 220.534,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Kimi RAIKKONEN",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 40
         },
         {
           "session_type": "race",
@@ -19623,17 +19471,15 @@
           "qualifying_time": "1'23.407",
           "gap_to_pole_seconds": 2.58,
           "pct_off_pole": 103.192,
-          "qualifying_avg_speed": 232.211,
           "positions_gained": 3,
+          "laps_led": 0,
+          "teammate": "Nikita MAZEPIN",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 19,
           "fastest_lap_time": "1'28.412",
           "fastest_lap_gap": 5.216,
-          "fastest_lap_number": 46,
-          "fastest_lap_avg_speed": 219.065,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Nikita MAZEPIN",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 46
         },
         {
           "session_type": "race",
@@ -19652,17 +19498,15 @@
           "qualifying_time": "1'22.756",
           "gap_to_pole_seconds": 1.929,
           "pct_off_pole": 102.387,
-          "qualifying_avg_speed": 234.037,
           "positions_gained": -2,
+          "laps_led": 0,
+          "teammate": "Nicholas LATIFI",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 5,
           "fastest_lap_time": "1'25.768",
           "fastest_lap_gap": 2.572,
-          "fastest_lap_number": 55,
-          "fastest_lap_avg_speed": 225.818,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Nicholas LATIFI",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 55
         },
         {
           "session_type": "race",
@@ -19681,17 +19525,15 @@
           "qualifying_time": "1'25.859",
           "gap_to_pole_seconds": 5.032,
           "pct_off_pole": 106.226,
-          "qualifying_avg_speed": 225.579,
           "positions_gained": 2,
+          "laps_led": 0,
+          "teammate": "Mick SCHUMACHER",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 16,
           "fastest_lap_time": "1'27.340",
           "fastest_lap_gap": 4.144,
-          "fastest_lap_number": 55,
-          "fastest_lap_avg_speed": 221.754,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Mick SCHUMACHER",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 55
         },
         {
           "session_type": "race",
@@ -19710,17 +19552,15 @@
           "qualifying_time": "1'23.213",
           "gap_to_pole_seconds": 2.386,
           "pct_off_pole": 102.952,
-          "qualifying_avg_speed": 232.752,
           "positions_gained": null,
+          "laps_led": 0,
+          "teammate": "George RUSSELL",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 20,
           "fastest_lap_time": "1'28.732",
           "fastest_lap_gap": 5.536,
-          "fastest_lap_number": 44,
-          "fastest_lap_avg_speed": 218.275,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "George RUSSELL",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 44
         },
         {
           "session_type": "race",
@@ -19739,17 +19579,15 @@
           "qualifying_time": "1'21.478",
           "gap_to_pole_seconds": 0.651,
           "pct_off_pole": 100.805,
-          "qualifying_avg_speed": 237.708,
           "positions_gained": null,
+          "laps_led": 0,
+          "teammate": "Lewis HAMILTON",
+          "total_classified_finishers": 18,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 15,
           "fastest_lap_time": "1'27.246",
           "fastest_lap_gap": 4.05,
-          "fastest_lap_number": 39,
-          "fastest_lap_avg_speed": 221.993,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Lewis HAMILTON",
-          "total_classified_finishers": 18
+          "fastest_lap_number": 39
         }
       ],
       "race_penalties": []
@@ -19759,144 +19597,125 @@
         "number": 3,
         "driver": "Daniel RICCIARDO",
         "chassis": "McLaren F1 Team",
-        "engine": "McLaren",
-        "nationality": "MCL35M"
+        "engine": "McLaren"
       },
       {
         "number": 4,
         "driver": "Lando NORRIS",
         "chassis": "McLaren F1 Team",
-        "engine": "McLaren",
-        "nationality": "MCL35M"
+        "engine": "McLaren"
       },
       {
         "number": 5,
         "driver": "Sebastian VETTEL",
         "chassis": "Aston Martin Cognizant F1 Team",
-        "engine": "Aston Martin",
-        "nationality": "AMR21"
+        "engine": "Aston Martin"
       },
       {
         "number": 6,
         "driver": "Nicholas LATIFI",
         "chassis": "Williams Racing",
-        "engine": "Williams",
-        "nationality": "FW43B"
+        "engine": "Williams"
       },
       {
         "number": 7,
         "driver": "Kimi RAIKKONEN",
         "chassis": "Alfa Romeo Racing ORLEN",
-        "engine": "Alfa Romeo",
-        "nationality": "C41"
+        "engine": "Alfa Romeo"
       },
       {
         "number": 9,
         "driver": "Nikita MAZEPIN",
         "chassis": "Uralkali Haas F1 Team",
-        "engine": "Haas",
-        "nationality": "VF-21"
+        "engine": "Haas"
       },
       {
         "number": 10,
         "driver": "Pierre GASLY",
         "chassis": "Scuderia AlphaTauri Honda",
-        "engine": "AlphaTauri",
-        "nationality": "AT02"
+        "engine": "AlphaTauri"
       },
       {
         "number": 11,
         "driver": "Sergio PEREZ",
         "chassis": "Red Bull Racing Honda",
-        "engine": "Red Bull",
-        "nationality": "RB16B"
+        "engine": "Red Bull"
       },
       {
         "number": 14,
         "driver": "Fernando ALONSO",
         "chassis": "Alpine F1 Team",
-        "engine": "Alpine",
-        "nationality": "A521"
+        "engine": "Alpine"
       },
       {
         "number": 16,
         "driver": "Charles LECLERC",
         "chassis": "Scuderia Ferrari Mission Winnow",
-        "engine": "Ferrari",
-        "nationality": "SF21"
+        "engine": "Ferrari"
       },
       {
         "number": 18,
         "driver": "Lance STROLL",
         "chassis": "Aston Martin Cognizant F1 Team",
-        "engine": "Aston Martin",
-        "nationality": "AMR21"
+        "engine": "Aston Martin"
       },
       {
         "number": 22,
         "driver": "Yuki TSUNODA",
         "chassis": "Scuderia AlphaTauri Honda",
-        "engine": "AlphaTauri",
-        "nationality": "AT02"
+        "engine": "AlphaTauri"
       },
       {
         "number": 31,
         "driver": "Esteban OCON",
         "chassis": "Alpine F1 Team",
-        "engine": "Alpine",
-        "nationality": "A521"
+        "engine": "Alpine"
       },
       {
         "number": 33,
         "driver": "Max VERSTAPPEN",
         "chassis": "Red Bull Racing Honda",
-        "engine": "Red Bull",
-        "nationality": "RB16B"
+        "engine": "Red Bull"
       },
       {
         "number": 44,
         "driver": "Lewis HAMILTON",
         "chassis": "Mercedes AMG Petronas F1 Team",
-        "engine": "Mercedes",
-        "nationality": "F1 W12"
+        "engine": "Mercedes"
       },
       {
         "number": 47,
         "driver": "Mick SCHUMACHER",
         "chassis": "Uralkali Haas F1 Team",
-        "engine": "Haas",
-        "nationality": "VF-21"
+        "engine": "Haas"
       },
       {
         "number": 55,
         "driver": "Carlos SAINZ",
         "chassis": "Scuderia Ferrari Mission Winnow",
-        "engine": "Ferrari",
-        "nationality": "SF21"
+        "engine": "Ferrari"
       },
       {
         "number": 63,
         "driver": "George RUSSELL",
         "chassis": "Williams Racing",
-        "engine": "Williams",
-        "nationality": "FW43B"
+        "engine": "Williams"
       },
       {
         "number": 77,
         "driver": "Valtteri BOTTAS",
         "chassis": "Mercedes AMG Petronas F1 Team",
-        "engine": "Mercedes",
-        "nationality": "F1 W12"
+        "engine": "Mercedes"
       },
       {
         "number": 99,
         "driver": "Antonio GIOVINAZZI",
         "chassis": "Alfa Romeo Racing ORLEN",
-        "engine": "Alfa Romeo",
-        "nationality": "C41"
+        "engine": "Alfa Romeo"
       }
     ],
-    "total_entrants": 20
+    "total_entrants": 0,
+    "race_number": 20
   },
   {
     "race_name": "Saudi Arabia",
@@ -19904,7 +19723,6 @@
     "year": 2021,
     "date": "2021-12-05",
     "is_sprint_weekend": false,
-    "race_number": 21,
     "sessions": {
       "qualifying": [
         {
@@ -20146,17 +19964,15 @@
           "qualifying_time": "1'27.511",
           "gap_to_pole_seconds": null,
           "pct_off_pole": null,
-          "qualifying_avg_speed": 253.984,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Valtteri BOTTAS",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": true,
           "fastest_lap_rank": 1,
           "fastest_lap_time": "1'30.734",
           "fastest_lap_gap": null,
-          "fastest_lap_number": 47,
-          "fastest_lap_avg_speed": 244.962,
-          "had_fastest_lap": true,
-          "laps_led": 0,
-          "teammate": "Valtteri BOTTAS",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 47
         },
         {
           "session_type": "race",
@@ -20175,12 +19991,11 @@
           "qualifying_time": null,
           "gap_to_pole_seconds": null,
           "pct_off_pole": null,
-          "qualifying_avg_speed": null,
           "positions_gained": null,
-          "had_fastest_lap": false,
           "laps_led": 0,
           "teammate": null,
-          "total_classified_finishers": 15
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false
         },
         {
           "session_type": "race",
@@ -20199,17 +20014,15 @@
           "qualifying_time": "1'27.622",
           "gap_to_pole_seconds": 0.111,
           "pct_off_pole": 100.127,
-          "qualifying_avg_speed": 253.662,
           "positions_gained": -1,
+          "laps_led": 0,
+          "teammate": "Lewis HAMILTON",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 2,
           "fastest_lap_time": "1'31.408",
           "fastest_lap_gap": 0.674,
-          "fastest_lap_number": 47,
-          "fastest_lap_avg_speed": 243.156,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Lewis HAMILTON",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 47
         },
         {
           "session_type": "race",
@@ -20228,17 +20041,15 @@
           "qualifying_time": "1'28.647",
           "gap_to_pole_seconds": 1.136,
           "pct_off_pole": 101.298,
-          "qualifying_avg_speed": 250.729,
           "positions_gained": 5,
+          "laps_led": 0,
+          "teammate": "Fernando ALONSO",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 6,
           "fastest_lap_time": "1'31.797",
           "fastest_lap_gap": 1.063,
-          "fastest_lap_number": 47,
-          "fastest_lap_avg_speed": 242.126,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Fernando ALONSO",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 47
         },
         {
           "session_type": "race",
@@ -20257,17 +20068,15 @@
           "qualifying_time": "1'28.668",
           "gap_to_pole_seconds": 1.157,
           "pct_off_pole": 101.322,
-          "qualifying_avg_speed": 250.67,
           "positions_gained": 6,
+          "laps_led": 0,
+          "teammate": "Lando NORRIS",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 11,
           "fastest_lap_time": "1'32.716",
           "fastest_lap_gap": 1.982,
-          "fastest_lap_number": 43,
-          "fastest_lap_avg_speed": 239.726,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Lando NORRIS",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 43
         },
         {
           "session_type": "race",
@@ -20286,17 +20095,15 @@
           "qualifying_time": "1'28.125",
           "gap_to_pole_seconds": 0.614,
           "pct_off_pole": 100.702,
-          "qualifying_avg_speed": 252.214,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Yuki TSUNODA",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 9,
           "fastest_lap_time": "1'32.297",
           "fastest_lap_gap": 1.563,
-          "fastest_lap_number": 46,
-          "fastest_lap_avg_speed": 240.814,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Yuki TSUNODA",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 46
         },
         {
           "session_type": "race",
@@ -20315,17 +20122,15 @@
           "qualifying_time": "1'28.054",
           "gap_to_pole_seconds": 0.543,
           "pct_off_pole": 100.62,
-          "qualifying_avg_speed": 252.418,
           "positions_gained": -3,
+          "laps_led": 0,
+          "teammate": "Carlos SAINZ",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 4,
           "fastest_lap_time": "1'31.601",
           "fastest_lap_gap": 0.867,
-          "fastest_lap_number": 46,
-          "fastest_lap_avg_speed": 242.644,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Carlos SAINZ",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 46
         },
         {
           "session_type": "race",
@@ -20344,17 +20149,15 @@
           "qualifying_time": "1'53.652",
           "gap_to_pole_seconds": 26.141,
           "pct_off_pole": 129.872,
-          "qualifying_avg_speed": 195.565,
           "positions_gained": 7,
+          "laps_led": 0,
+          "teammate": "Charles LECLERC",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 7,
           "fastest_lap_time": "1'31.851",
           "fastest_lap_gap": 1.117,
-          "fastest_lap_number": 37,
-          "fastest_lap_avg_speed": 241.983,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Charles LECLERC",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 37
         },
         {
           "session_type": "race",
@@ -20373,17 +20176,15 @@
           "qualifying_time": "1'28.754",
           "gap_to_pole_seconds": 1.243,
           "pct_off_pole": 101.42,
-          "qualifying_avg_speed": 250.427,
           "positions_gained": 1,
+          "laps_led": 0,
+          "teammate": "Kimi RAIKKONEN",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 15,
           "fastest_lap_time": "1'32.865",
           "fastest_lap_gap": 2.131,
-          "fastest_lap_number": 37,
-          "fastest_lap_avg_speed": 239.341,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Kimi RAIKKONEN",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 37
         },
         {
           "session_type": "race",
@@ -20402,17 +20203,15 @@
           "qualifying_time": "1'28.180",
           "gap_to_pole_seconds": 0.669,
           "pct_off_pole": 100.764,
-          "qualifying_avg_speed": 252.057,
           "positions_gained": -3,
+          "laps_led": 0,
+          "teammate": "Daniel RICCIARDO",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 8,
           "fastest_lap_time": "1'31.914",
           "fastest_lap_gap": 1.18,
-          "fastest_lap_number": 49,
-          "fastest_lap_avg_speed": 241.817,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Daniel RICCIARDO",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 49
         },
         {
           "session_type": "race",
@@ -20431,17 +20230,15 @@
           "qualifying_time": "1'29.368",
           "gap_to_pole_seconds": 1.857,
           "pct_off_pole": 102.122,
-          "qualifying_avg_speed": 248.706,
           "positions_gained": 7,
+          "laps_led": 0,
+          "teammate": "Sebastian VETTEL",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 14,
           "fastest_lap_time": "1'32.804",
           "fastest_lap_gap": 2.07,
-          "fastest_lap_number": 45,
-          "fastest_lap_avg_speed": 239.498,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Sebastian VETTEL",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 45
         },
         {
           "session_type": "race",
@@ -20460,17 +20257,15 @@
           "qualifying_time": "1'29.177",
           "gap_to_pole_seconds": 1.666,
           "pct_off_pole": 101.904,
-          "qualifying_avg_speed": 249.239,
           "positions_gained": 4,
+          "laps_led": 0,
+          "teammate": "George RUSSELL",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 12,
           "fastest_lap_time": "1'32.751",
           "fastest_lap_gap": 2.017,
-          "fastest_lap_number": 49,
-          "fastest_lap_avg_speed": 239.635,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "George RUSSELL",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 49
         },
         {
           "session_type": "race",
@@ -20489,17 +20284,15 @@
           "qualifying_time": "1'28.920",
           "gap_to_pole_seconds": 1.409,
           "pct_off_pole": 101.61,
-          "qualifying_avg_speed": 249.96,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Esteban OCON",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 5,
           "fastest_lap_time": "1'31.633",
           "fastest_lap_gap": 0.899,
-          "fastest_lap_number": 46,
-          "fastest_lap_avg_speed": 242.559,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Esteban OCON",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 46
         },
         {
           "session_type": "race",
@@ -20518,12 +20311,11 @@
           "qualifying_time": null,
           "gap_to_pole_seconds": null,
           "pct_off_pole": null,
-          "qualifying_avg_speed": null,
           "positions_gained": null,
-          "had_fastest_lap": false,
           "laps_led": 0,
           "teammate": null,
-          "total_classified_finishers": 15
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false
         },
         {
           "session_type": "race",
@@ -20542,17 +20334,15 @@
           "qualifying_time": "1'28.885",
           "gap_to_pole_seconds": 1.374,
           "pct_off_pole": 101.57,
-          "qualifying_avg_speed": 250.058,
           "positions_gained": -3,
+          "laps_led": 0,
+          "teammate": "Antonio GIOVINAZZI",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 13,
           "fastest_lap_time": "1'32.778",
           "fastest_lap_gap": 2.044,
-          "fastest_lap_number": 45,
-          "fastest_lap_avg_speed": 239.565,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Antonio GIOVINAZZI",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 45
         },
         {
           "session_type": "race",
@@ -20571,17 +20361,15 @@
           "qualifying_time": "1'29.198",
           "gap_to_pole_seconds": 1.687,
           "pct_off_pole": 101.928,
-          "qualifying_avg_speed": 249.18,
           "positions_gained": null,
+          "laps_led": 0,
+          "teammate": "Lance STROLL",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 16,
           "fastest_lap_time": "1'34.030",
           "fastest_lap_gap": 3.296,
-          "fastest_lap_number": 41,
-          "fastest_lap_avg_speed": 236.376,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Lance STROLL",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 41
         },
         {
           "session_type": "race",
@@ -20600,17 +20388,15 @@
           "qualifying_time": "1'29.054",
           "gap_to_pole_seconds": 1.543,
           "pct_off_pole": 101.763,
-          "qualifying_avg_speed": 249.583,
           "positions_gained": null,
+          "laps_led": 0,
+          "teammate": "Nicholas LATIFI",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 19,
           "fastest_lap_time": "1'36.130",
           "fastest_lap_gap": 5.396,
-          "fastest_lap_number": 7,
-          "fastest_lap_avg_speed": 231.212,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Nicholas LATIFI",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 7
         },
         {
           "session_type": "race",
@@ -20629,17 +20415,15 @@
           "qualifying_time": "1'28.123",
           "gap_to_pole_seconds": 0.612,
           "pct_off_pole": 100.699,
-          "qualifying_avg_speed": 252.22,
           "positions_gained": null,
+          "laps_led": 0,
+          "teammate": "Max VERSTAPPEN",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 17,
           "fastest_lap_time": "1'34.138",
           "fastest_lap_gap": 3.404,
-          "fastest_lap_number": 9,
-          "fastest_lap_avg_speed": 236.104,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Max VERSTAPPEN",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 9
         },
         {
           "session_type": "race",
@@ -20658,17 +20442,15 @@
           "qualifying_time": "1'30.473",
           "gap_to_pole_seconds": 2.962,
           "pct_off_pole": 103.385,
-          "qualifying_avg_speed": 245.669,
           "positions_gained": null,
+          "laps_led": 0,
+          "teammate": "Mick SCHUMACHER",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 20,
           "fastest_lap_time": "1'37.043",
           "fastest_lap_gap": 6.309,
-          "fastest_lap_number": 7,
-          "fastest_lap_avg_speed": 229.037,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Mick SCHUMACHER",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 7
         },
         {
           "session_type": "race",
@@ -20687,17 +20469,15 @@
           "qualifying_time": "1'29.464",
           "gap_to_pole_seconds": 1.953,
           "pct_off_pole": 102.232,
-          "qualifying_avg_speed": 248.44,
           "positions_gained": null,
+          "laps_led": 0,
+          "teammate": "Nikita MAZEPIN",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 18,
           "fastest_lap_time": "1'36.043",
           "fastest_lap_gap": 5.309,
-          "fastest_lap_number": 8,
-          "fastest_lap_avg_speed": 231.421,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Nikita MAZEPIN",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 8
         }
       ],
       "race_penalties": [
@@ -20724,144 +20504,125 @@
         "number": 3,
         "driver": "Daniel RICCIARDO",
         "chassis": "McLaren F1 Team",
-        "engine": "McLaren",
-        "nationality": "MCL35M"
+        "engine": "McLaren"
       },
       {
         "number": 4,
         "driver": "Lando NORRIS",
         "chassis": "McLaren F1 Team",
-        "engine": "McLaren",
-        "nationality": "MCL35M"
+        "engine": "McLaren"
       },
       {
         "number": 5,
         "driver": "Sebastian VETTEL",
         "chassis": "Aston Martin Cognizant F1 Team",
-        "engine": "Aston Martin",
-        "nationality": "AMR21"
+        "engine": "Aston Martin"
       },
       {
         "number": 6,
         "driver": "Nicholas LATIFI",
         "chassis": "Williams Racing",
-        "engine": "Williams",
-        "nationality": "FW43B"
+        "engine": "Williams"
       },
       {
         "number": 7,
         "driver": "Kimi RAIKKONEN",
         "chassis": "Alfa Romeo Racing ORLEN",
-        "engine": "Alfa Romeo",
-        "nationality": "C41"
+        "engine": "Alfa Romeo"
       },
       {
         "number": 9,
         "driver": "Nikita MAZEPIN",
         "chassis": "Uralkali Haas F1 Team",
-        "engine": "Haas",
-        "nationality": "VF-21"
+        "engine": "Haas"
       },
       {
         "number": 10,
         "driver": "Pierre GASLY",
         "chassis": "Scuderia AlphaTauri Honda",
-        "engine": "AlphaTauri",
-        "nationality": "AT02"
+        "engine": "AlphaTauri"
       },
       {
         "number": 11,
         "driver": "Sergio PEREZ",
         "chassis": "Red Bull Racing Honda",
-        "engine": "Red Bull",
-        "nationality": "RB16B"
+        "engine": "Red Bull"
       },
       {
         "number": 14,
         "driver": "Fernando ALONSO",
         "chassis": "Alpine F1 Team",
-        "engine": "Alpine",
-        "nationality": "A521"
+        "engine": "Alpine"
       },
       {
         "number": 16,
         "driver": "Charles LECLERC",
         "chassis": "Scuderia Ferrari Mission Winnow",
-        "engine": "Ferrari",
-        "nationality": "SF21"
+        "engine": "Ferrari"
       },
       {
         "number": 18,
         "driver": "Lance STROLL",
         "chassis": "Aston Martin Cognizant F1 Team",
-        "engine": "Aston Martin",
-        "nationality": "AMR21"
+        "engine": "Aston Martin"
       },
       {
         "number": 22,
         "driver": "Yuki TSUNODA",
         "chassis": "Scuderia AlphaTauri Honda",
-        "engine": "AlphaTauri",
-        "nationality": "AT02"
+        "engine": "AlphaTauri"
       },
       {
         "number": 31,
         "driver": "Esteban OCON",
         "chassis": "Alpine F1 Team",
-        "engine": "Alpine",
-        "nationality": "A521"
+        "engine": "Alpine"
       },
       {
         "number": 33,
         "driver": "Max VERSTAPPEN",
         "chassis": "Red Bull Racing Honda",
-        "engine": "Red Bull",
-        "nationality": "RB16B"
+        "engine": "Red Bull"
       },
       {
         "number": 44,
         "driver": "Lewis HAMILTON",
         "chassis": "Mercedes AMG Petronas F1 Team",
-        "engine": "Mercedes",
-        "nationality": "F1 W12"
+        "engine": "Mercedes"
       },
       {
         "number": 47,
         "driver": "Mick SCHUMACHER",
         "chassis": "Uralkali Haas F1 Team",
-        "engine": "Haas",
-        "nationality": "VF-21"
+        "engine": "Haas"
       },
       {
         "number": 55,
         "driver": "Carlos SAINZ",
         "chassis": "Scuderia Ferrari Mission Winnow",
-        "engine": "Ferrari",
-        "nationality": "SF21"
+        "engine": "Ferrari"
       },
       {
         "number": 63,
         "driver": "George RUSSELL",
         "chassis": "Williams Racing",
-        "engine": "Williams",
-        "nationality": "FW43B"
+        "engine": "Williams"
       },
       {
         "number": 77,
         "driver": "Valtteri BOTTAS",
         "chassis": "Mercedes AMG Petronas F1 Team",
-        "engine": "Mercedes",
-        "nationality": "F1 W12"
+        "engine": "Mercedes"
       },
       {
         "number": 99,
         "driver": "Antonio GIOVINAZZI",
         "chassis": "Alfa Romeo Racing ORLEN",
-        "engine": "Alfa Romeo",
-        "nationality": "C41"
+        "engine": "Alfa Romeo"
       }
     ],
-    "total_entrants": 20
+    "total_entrants": 0,
+    "race_number": 21
   },
   {
     "race_name": "Abu Dhabi",
@@ -20869,7 +20630,6 @@
     "year": 2021,
     "date": "2021-12-12",
     "is_sprint_weekend": false,
-    "race_number": 22,
     "sessions": {
       "qualifying": [
         {
@@ -21111,17 +20871,15 @@
           "qualifying_time": "1'22.109",
           "gap_to_pole_seconds": null,
           "pct_off_pole": null,
-          "qualifying_avg_speed": 231.541,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Sergio PEREZ",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": true,
           "fastest_lap_rank": 1,
           "fastest_lap_time": "1'26.103",
           "fastest_lap_gap": null,
-          "fastest_lap_number": 39,
-          "fastest_lap_avg_speed": 220.801,
-          "had_fastest_lap": true,
-          "laps_led": 0,
-          "teammate": "Sergio PEREZ",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 39
         },
         {
           "session_type": "race",
@@ -21140,17 +20898,15 @@
           "qualifying_time": "1'22.480",
           "gap_to_pole_seconds": 0.371,
           "pct_off_pole": 100.452,
-          "qualifying_avg_speed": 230.5,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Valtteri BOTTAS",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 3,
           "fastest_lap_time": "1'26.615",
           "fastest_lap_gap": 0.512,
-          "fastest_lap_number": 43,
-          "fastest_lap_avg_speed": 219.495,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Valtteri BOTTAS",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 43
         },
         {
           "session_type": "race",
@@ -21169,17 +20925,15 @@
           "qualifying_time": "1'22.992",
           "gap_to_pole_seconds": 0.883,
           "pct_off_pole": 101.075,
-          "qualifying_avg_speed": 229.078,
           "positions_gained": 2,
+          "laps_led": 0,
+          "teammate": "Charles LECLERC",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 9,
           "fastest_lap_time": "1'27.618",
           "fastest_lap_gap": 1.515,
-          "fastest_lap_number": 51,
-          "fastest_lap_avg_speed": 216.983,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Charles LECLERC",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 51
         },
         {
           "session_type": "race",
@@ -21198,17 +20952,15 @@
           "qualifying_time": "1'23.220",
           "gap_to_pole_seconds": 1.111,
           "pct_off_pole": 101.353,
-          "qualifying_avg_speed": 228.45,
           "positions_gained": 4,
+          "laps_led": 0,
+          "teammate": "Pierre GASLY",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 7,
           "fastest_lap_time": "1'27.496",
           "fastest_lap_gap": 1.393,
-          "fastest_lap_number": 50,
-          "fastest_lap_avg_speed": 217.285,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Pierre GASLY",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 50
         },
         {
           "session_type": "race",
@@ -21227,17 +20979,15 @@
           "qualifying_time": "1'24.043",
           "gap_to_pole_seconds": 1.934,
           "pct_off_pole": 102.355,
-          "qualifying_avg_speed": 226.213,
           "positions_gained": 7,
+          "laps_led": 0,
+          "teammate": "Yuki TSUNODA",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 6,
           "fastest_lap_time": "1'27.342",
           "fastest_lap_gap": 1.239,
-          "fastest_lap_number": 49,
-          "fastest_lap_avg_speed": 217.668,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Yuki TSUNODA",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 49
         },
         {
           "session_type": "race",
@@ -21256,17 +21006,15 @@
           "qualifying_time": "1'23.036",
           "gap_to_pole_seconds": 0.927,
           "pct_off_pole": 101.129,
-          "qualifying_avg_speed": 228.956,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Lewis HAMILTON",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 5,
           "fastest_lap_time": "1'26.862",
           "fastest_lap_gap": 0.759,
-          "fastest_lap_number": 51,
-          "fastest_lap_avg_speed": 218.871,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Lewis HAMILTON",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 51
         },
         {
           "session_type": "race",
@@ -21285,17 +21033,15 @@
           "qualifying_time": "1'22.931",
           "gap_to_pole_seconds": 0.822,
           "pct_off_pole": 101.001,
-          "qualifying_avg_speed": 229.246,
           "positions_gained": -4,
+          "laps_led": 0,
+          "teammate": "Daniel RICCIARDO",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 4,
           "fastest_lap_time": "1'26.762",
           "fastest_lap_gap": 0.659,
-          "fastest_lap_number": 58,
-          "fastest_lap_avg_speed": 219.124,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Daniel RICCIARDO",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 58
         },
         {
           "session_type": "race",
@@ -21314,17 +21060,15 @@
           "qualifying_time": "1'23.460",
           "gap_to_pole_seconds": 1.351,
           "pct_off_pole": 101.645,
-          "qualifying_avg_speed": 227.793,
           "positions_gained": 3,
+          "laps_led": 0,
+          "teammate": "Esteban OCON",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 8,
           "fastest_lap_time": "1'27.607",
           "fastest_lap_gap": 1.504,
-          "fastest_lap_number": 58,
-          "fastest_lap_avg_speed": 217.01,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Esteban OCON",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 58
         },
         {
           "session_type": "race",
@@ -21343,17 +21087,15 @@
           "qualifying_time": "1'23.389",
           "gap_to_pole_seconds": 1.28,
           "pct_off_pole": 101.559,
-          "qualifying_avg_speed": 227.987,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Fernando ALONSO",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 10,
           "fastest_lap_time": "1'28.249",
           "fastest_lap_gap": 2.146,
-          "fastest_lap_number": 58,
-          "fastest_lap_avg_speed": 215.431,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Fernando ALONSO",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 58
         },
         {
           "session_type": "race",
@@ -21372,17 +21114,15 @@
           "qualifying_time": "1'23.122",
           "gap_to_pole_seconds": 1.013,
           "pct_off_pole": 101.234,
-          "qualifying_avg_speed": 228.719,
           "positions_gained": -3,
+          "laps_led": 0,
+          "teammate": "Carlos SAINZ",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 12,
           "fastest_lap_time": "1'28.433",
           "fastest_lap_gap": 2.33,
-          "fastest_lap_number": 40,
-          "fastest_lap_avg_speed": 214.983,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Carlos SAINZ",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 40
         },
         {
           "session_type": "race",
@@ -21401,17 +21141,15 @@
           "qualifying_time": "1'24.305",
           "gap_to_pole_seconds": 2.196,
           "pct_off_pole": 102.674,
-          "qualifying_avg_speed": 225.51,
           "positions_gained": 4,
+          "laps_led": 0,
+          "teammate": "Lance STROLL",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 11,
           "fastest_lap_time": "1'28.303",
           "fastest_lap_gap": 2.2,
-          "fastest_lap_number": 58,
-          "fastest_lap_avg_speed": 215.3,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Lance STROLL",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 58
         },
         {
           "session_type": "race",
@@ -21430,17 +21168,15 @@
           "qualifying_time": "1'23.409",
           "gap_to_pole_seconds": 1.3,
           "pct_off_pole": 101.583,
-          "qualifying_avg_speed": 227.932,
           "positions_gained": -2,
+          "laps_led": 0,
+          "teammate": "Lando NORRIS",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 14,
           "fastest_lap_time": "1'28.723",
           "fastest_lap_gap": 2.62,
-          "fastest_lap_number": 48,
-          "fastest_lap_avg_speed": 214.28,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Lando NORRIS",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 48
         },
         {
           "session_type": "race",
@@ -21459,17 +21195,15 @@
           "qualifying_time": "1'24.066",
           "gap_to_pole_seconds": 1.957,
           "pct_off_pole": 102.383,
-          "qualifying_avg_speed": 226.151,
           "positions_gained": 0,
+          "laps_led": 0,
+          "teammate": "Sebastian VETTEL",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 13,
           "fastest_lap_time": "1'28.567",
           "fastest_lap_gap": 2.464,
-          "fastest_lap_number": 48,
-          "fastest_lap_avg_speed": 214.658,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Sebastian VETTEL",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 48
         },
         {
           "session_type": "race",
@@ -21488,17 +21222,15 @@
           "qualifying_time": "1'24.906",
           "gap_to_pole_seconds": 2.797,
           "pct_off_pole": 103.406,
-          "qualifying_avg_speed": 223.914,
           "positions_gained": 5,
+          "laps_led": 0,
+          "teammate": "Nikita MAZEPIN",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 17,
           "fastest_lap_time": "1'29.457",
           "fastest_lap_gap": 3.354,
-          "fastest_lap_number": 42,
-          "fastest_lap_avg_speed": 212.522,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Nikita MAZEPIN",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 42
         },
         {
           "session_type": "race",
@@ -21517,17 +21249,15 @@
           "qualifying_time": "1'22.947",
           "gap_to_pole_seconds": 0.838,
           "pct_off_pole": 101.021,
-          "qualifying_avg_speed": 229.202,
           "positions_gained": -11,
+          "laps_led": 0,
+          "teammate": "Max VERSTAPPEN",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 2,
           "fastest_lap_time": "1'26.419",
           "fastest_lap_gap": 0.316,
-          "fastest_lap_number": 51,
-          "fastest_lap_avg_speed": 219.993,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Max VERSTAPPEN",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 51
         },
         {
           "session_type": "race",
@@ -21546,17 +21276,15 @@
           "qualifying_time": "1'24.338",
           "gap_to_pole_seconds": 2.229,
           "pct_off_pole": 102.715,
-          "qualifying_avg_speed": 225.422,
           "positions_gained": null,
+          "laps_led": 0,
+          "teammate": null,
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 15,
           "fastest_lap_time": "1'29.293",
           "fastest_lap_gap": 3.19,
-          "fastest_lap_number": 30,
-          "fastest_lap_avg_speed": 212.913,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": null,
-          "total_classified_finishers": 15
+          "fastest_lap_number": 30
         },
         {
           "session_type": "race",
@@ -21575,17 +21303,15 @@
           "qualifying_time": "1'24.251",
           "gap_to_pole_seconds": 2.142,
           "pct_off_pole": 102.609,
-          "qualifying_avg_speed": 225.654,
           "positions_gained": null,
+          "laps_led": 0,
+          "teammate": "Kimi RAIKKONEN",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 16,
           "fastest_lap_time": "1'29.442",
           "fastest_lap_gap": 3.339,
-          "fastest_lap_number": 33,
-          "fastest_lap_avg_speed": 212.558,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Kimi RAIKKONEN",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 33
         },
         {
           "session_type": "race",
@@ -21604,17 +21330,15 @@
           "qualifying_time": "1'24.423",
           "gap_to_pole_seconds": 2.314,
           "pct_off_pole": 102.818,
-          "qualifying_avg_speed": 225.195,
           "positions_gained": null,
+          "laps_led": 0,
+          "teammate": null,
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 19,
           "fastest_lap_time": "1'30.647",
           "fastest_lap_gap": 4.544,
-          "fastest_lap_number": 23,
-          "fastest_lap_avg_speed": 209.732,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": null,
-          "total_classified_finishers": 15
+          "fastest_lap_number": 23
         },
         {
           "session_type": "race",
@@ -21633,17 +21357,15 @@
           "qualifying_time": "1'24.779",
           "gap_to_pole_seconds": 2.67,
           "pct_off_pole": 103.252,
-          "qualifying_avg_speed": 224.249,
           "positions_gained": null,
+          "laps_led": 0,
+          "teammate": "Antonio GIOVINAZZI",
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false,
           "fastest_lap_rank": 18,
           "fastest_lap_time": "1'29.698",
           "fastest_lap_gap": 3.595,
-          "fastest_lap_number": 23,
-          "fastest_lap_avg_speed": 211.951,
-          "had_fastest_lap": false,
-          "laps_led": 0,
-          "teammate": "Antonio GIOVINAZZI",
-          "total_classified_finishers": 15
+          "fastest_lap_number": 23
         },
         {
           "session_type": "race",
@@ -21662,12 +21384,11 @@
           "qualifying_time": null,
           "gap_to_pole_seconds": null,
           "pct_off_pole": null,
-          "qualifying_avg_speed": null,
           "positions_gained": null,
-          "had_fastest_lap": false,
           "laps_led": 0,
           "teammate": "Mick SCHUMACHER",
-          "total_classified_finishers": 15
+          "total_classified_finishers": 15,
+          "had_fastest_lap": false
         }
       ],
       "race_penalties": []
@@ -21677,150 +21398,130 @@
         "number": 3,
         "driver": "Daniel RICCIARDO",
         "chassis": "McLaren F1 Team",
-        "engine": "McLaren",
-        "nationality": "MCL35M"
+        "engine": "McLaren"
       },
       {
         "number": 4,
         "driver": "Lando NORRIS",
         "chassis": "McLaren F1 Team",
-        "engine": "McLaren",
-        "nationality": "MCL35M"
+        "engine": "McLaren"
       },
       {
         "number": 5,
         "driver": "Sebastian VETTEL",
         "chassis": "Aston Martin Cognizant F1 Team",
-        "engine": "Aston Martin",
-        "nationality": "AMR21"
+        "engine": "Aston Martin"
       },
       {
         "number": 6,
         "driver": "Nicholas LATIFI",
         "chassis": "Williams Racing",
-        "engine": "Williams",
-        "nationality": "FW43B"
+        "engine": "Williams"
       },
       {
         "number": 7,
         "driver": "Kimi RAIKKONEN",
         "chassis": "Alfa Romeo Racing ORLEN",
-        "engine": "Alfa Romeo",
-        "nationality": "C41"
+        "engine": "Alfa Romeo"
       },
       {
         "number": 9,
         "driver": "Nikita MAZEPIN",
         "chassis": "Uralkali Haas F1 Team",
-        "engine": "Haas",
-        "nationality": "VF-21"
+        "engine": "Haas"
       },
       {
         "number": 10,
         "driver": "Pierre GASLY",
         "chassis": "Scuderia AlphaTauri Honda",
-        "engine": "AlphaTauri",
-        "nationality": "AT02"
+        "engine": "AlphaTauri"
       },
       {
         "number": 11,
         "driver": "Sergio PEREZ",
         "chassis": "Red Bull Racing Honda",
-        "engine": "Red Bull",
-        "nationality": "RB16B"
+        "engine": "Red Bull"
       },
       {
         "number": 14,
         "driver": "Fernando ALONSO",
         "chassis": "Alpine F1 Team",
-        "engine": "Alpine",
-        "nationality": "A521"
+        "engine": "Alpine"
       },
       {
         "number": 16,
         "driver": "Charles LECLERC",
         "chassis": "Scuderia Ferrari Mission Winnow",
-        "engine": "Ferrari",
-        "nationality": "SF21"
+        "engine": "Ferrari"
       },
       {
         "number": 18,
         "driver": "Lance STROLL",
         "chassis": "Aston Martin Cognizant F1 Team",
-        "engine": "Aston Martin",
-        "nationality": "AMR21"
+        "engine": "Aston Martin"
       },
       {
         "number": 22,
         "driver": "Yuki TSUNODA",
         "chassis": "Scuderia AlphaTauri Honda",
-        "engine": "AlphaTauri",
-        "nationality": "AT02"
+        "engine": "AlphaTauri"
       },
       {
         "number": 31,
         "driver": "Esteban OCON",
         "chassis": "Alpine F1 Team",
-        "engine": "Alpine",
-        "nationality": "A521"
+        "engine": "Alpine"
       },
       {
         "number": 33,
         "driver": "Max VERSTAPPEN",
         "chassis": "Red Bull Racing Honda",
-        "engine": "Red Bull",
-        "nationality": "RB16B"
+        "engine": "Red Bull"
       },
       {
         "number": 44,
         "driver": "Lewis HAMILTON",
         "chassis": "Mercedes AMG Petronas F1 Team",
-        "engine": "Mercedes",
-        "nationality": "F1 W12"
+        "engine": "Mercedes"
       },
       {
         "number": 47,
         "driver": "Mick SCHUMACHER",
         "chassis": "Uralkali Haas F1 Team",
-        "engine": "Haas",
-        "nationality": "VF-21"
+        "engine": "Haas"
       },
       {
         "number": 55,
         "driver": "Carlos SAINZ",
         "chassis": "Scuderia Ferrari Mission Winnow",
-        "engine": "Ferrari",
-        "nationality": "SF21"
+        "engine": "Ferrari"
       },
       {
         "number": 63,
         "driver": "George RUSSELL",
         "chassis": "Williams Racing",
-        "engine": "Williams",
-        "nationality": "FW43B"
+        "engine": "Williams"
       },
       {
         "number": 77,
         "driver": "Valtteri BOTTAS",
         "chassis": "Mercedes AMG Petronas F1 Team",
-        "engine": "Mercedes",
-        "nationality": "F1 W12"
+        "engine": "Mercedes"
       },
       {
         "number": 89,
         "driver": "Jack AITKEN *",
         "chassis": "Williams Racing",
-        "engine": "Williams",
-        "nationality": "FW43B"
+        "engine": "Williams"
       },
       {
         "number": 99,
         "driver": "Antonio GIOVINAZZI",
         "chassis": "Alfa Romeo Racing ORLEN",
-        "engine": "Alfa Romeo",
-        "nationality": "C41"
+        "engine": "Alfa Romeo"
       }
     ],
-    "total_entrants": 21
+    "total_entrants": 0,
+    "race_number": 22
   }
 ]
